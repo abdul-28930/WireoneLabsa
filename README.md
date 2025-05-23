@@ -302,13 +302,3 @@ pricing_module/
 2. Review the admin interface at `/admin/`
 3. Run the test script: `python test_api.py`
 4. Check Django logs for detailed error messages
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
-=======
-4. **Waiting Charges (WC)**
-   - Free waiting period (e.g., first 3 minutes)
-   - Charge per minute after free period
-   - Example: ₹5 per 3 minutes after initial free period
->>>>>>> cdc4da7a68f5ae1fd9da231bd8da7a4cca829e04
