@@ -208,6 +208,7 @@ Configure different multipliers for different duration ranges:
 - **Free Waiting Time**: Minutes of free waiting (e.g., 3 minutes)
 - **Charge Per Minute**: Rate after free period (e.g., ₹5/minute)
 
+<<<<<<< HEAD
 ### Day Configuration
 Use comma-separated day numbers (0=Monday, 6=Sunday):
 - Weekdays: `"0,1,2,3,4"`
@@ -305,3 +306,9 @@ pricing_module/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+4. **Waiting Charges (WC)**
+   - Free waiting period (e.g., first 3 minutes)
+   - Charge per minute after free period
+   - Example: ₹5 per 3 minutes after initial free period
+>>>>>>> cdc4da7a68f5ae1fd9da231bd8da7a4cca829e04
